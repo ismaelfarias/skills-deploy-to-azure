@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <username>-azure-ttt
+  DOCKER_IMAGE_NAME: ismaelfarias-azure-ttt
   AZURE_WEBAPP_NAME: ismaelfarias-ttt-app
   ###############################################
 
